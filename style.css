@@ -1,0 +1,26 @@
+body{
+    padding: 5%;
+}
+p{
+    font-size: 20px;
+}
+
+hr{
+    height: 3px;
+    background-color: black;
+    border-radius: 20px;
+}
+
+.titolo_sezione{
+    color: rgb(24, 190, 24);
+    font-size: 1.5rem;
+}
+
+.lista{
+    font-size: 1.2rem;
+    
+}
+
+.descrizione{
+    font-size: 1rem;
+}
